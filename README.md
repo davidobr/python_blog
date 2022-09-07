@@ -1,2 +1,2 @@
-# python-blog
+# python_blog
 Python django project
